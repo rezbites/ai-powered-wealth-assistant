@@ -7,3 +7,4 @@ google-genai
 google-generativeai
 tiktoken
 pypdf
+nest_asyncio
