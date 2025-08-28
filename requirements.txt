@@ -6,4 +6,4 @@ langchain-google-genai
 google-genai
 google-generativeai
 tiktoken
-PyPDF2
+pypdf
